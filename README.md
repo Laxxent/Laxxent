@@ -1,7 +1,7 @@
 - Hi, I’m @Laxxent 👋🏻
 - 👀 I’m interested in Web Development, Data Science, and Machine Learning
-- 🌱 I’m currently learning Machine Learning, PHP.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning, PHP, Laravel
+- 💞️ I’m looking to collaborate on Landing Page
 - 📫 How to reach me just chat me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
